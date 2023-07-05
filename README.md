@@ -25,7 +25,7 @@ The SQL Repository is organized into the following sections:
 
 2. **Data Manipulation**: Here, you will find SQL scripts that demonstrate data manipulation operations such as inserting, updating, and deleting data in the database. These scripts showcase my ability to handle data transformations, perform batch operations, and maintain data integrity.
 
-3. **Data Retrieval**: The data retrieval section focuses on SQL queries for extracting data from the database. You will find examples of simple and complex queries, including joins, subqueries, aggregations, and advanced filtering techniques. These scripts demonstrate my proficiency in retrieving the required information from the database efficiently.
+3. [Data Retrieval](https://github.com/cosbey/SQL/tree/main/Data%20Retrieval): The data retrieval section focuses on SQL queries for extracting data from the database. You will find examples of simple and complex queries, including joins, subqueries, aggregations, and advanced filtering techniques. These scripts demonstrate my proficiency in retrieving the required information from the database efficiently.
 
 4. **Database Administration**: In this section, you will find scripts and guides related to database administration tasks. This includes database creation, table creation, user management, access control, backups, and recovery. These scripts highlight my knowledge of database management systems and my ability to maintain and secure databases.
 

@@ -4,7 +4,7 @@
 
 In this project, the goal is to obtain specific information about employees, their machines, and the departments they belong to from the database. As a security analyst, you’ll likely need to analyze data. And often finding the specific data you’ll need depends on more than one factor. We will use SQL to retrieve specific pieces of information from the database and filter for multiple conditions. In addition, we will use the `AND`, `OR` and `NOT` operators to create more filters for SQL queries.
 
-The security team needs data to investigate potential security issues and to update computers. As an analyst, we are responsible for filtering the following required information from the database:
+The security team needs data to audit potential security incidents and to update computers. As an analyst, we are responsible for filtering the following required information from the database:
 
 	1.Retrieve all failed login attempts after business hours. 
 	2.Identify all login attempts that occurred on specific dates.
